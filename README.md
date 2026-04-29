@@ -53,6 +53,15 @@ Helps stakeholders:
 
 ## 📸 Dashboard Preview
 
+### 🔹 Overview
+![Overview](screenshots/overview.png)
+
+### 🔹 Analysis
+![Analysis](screenshots/analysis.png)
+
+### 🔹 Recommendations
+![Recommendations](screenshots/recommendations.png)
+
 
 
 

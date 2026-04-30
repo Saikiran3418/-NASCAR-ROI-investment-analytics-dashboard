@@ -57,7 +57,7 @@ Helps stakeholders:
 ![Overview](screenshots/overview.png)
 
 ### 🔹 Analysis
-powerbi/analysis.png
+
 
 ### 🔹 Recommendations
 ![Recommendations](screenshots/recommendations.png)

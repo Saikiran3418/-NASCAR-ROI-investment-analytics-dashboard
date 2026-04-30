@@ -83,13 +83,13 @@ NASCAR-ROI-investment-analytics-dashboard/
 ## 📸 Dashboard Screenshots
 
 ### Overview
-![Overview](screenshots/overview.png)
+![Overview](screenshots/screenshots/overview.png)
 
 ### Analysis
-![Analysis](screenshots/Analysis.png)
+![Analysis](screenshots/screenshots/Analysis.png)
 
 ### Recommendations
-![Recommendations](screenshots/Recomandations.png)
+![Recommendations](screenshots/screenshots/Recomandations.png)
 
 ---
 

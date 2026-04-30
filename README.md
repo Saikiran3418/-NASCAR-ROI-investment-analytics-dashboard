@@ -2,14 +2,14 @@
 
 > End-to-end analytics solution built using Python, SQL Server, 
 > and Power BI to help stakeholders identify where to invest, 
-> monitor, or reduce NASCAR sponsorship spending.
+> monitor or reduce NASCAR sponsorship spending.
 
 ---
 
 ## 🚀 Project Summary
 
 Most NASCAR sponsorship decisions are made on gut feeling.
-This project replaces guesswork with data — analyzing driver 
+This project replaces guesswork with data analyzing driver 
 performance, sponsorship costs, and ROI to give stakeholders 
 clear, actionable investment recommendations.
 
